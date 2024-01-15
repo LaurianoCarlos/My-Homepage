@@ -9,6 +9,7 @@ Principais Destaques:
 - **Educação:** Informações sobre minha formação acadêmica.
 
 ## Como Visualizar
+### [Lauriano.curriculo](https://796dc2eb-a2d3-43fd-8b76-fbd546215787-00-k6370dumb9kr.picard.replit.dev/)
 1. Simplesmente acesse o link acima para ver a página em seu navegador.
 2. Explore os diferentes segmentos para obter uma visão abrangente do meu perfil.
 
